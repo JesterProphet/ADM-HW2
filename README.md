@@ -10,6 +10,21 @@ This repository includes the solutions of Homework 2 from the Group 21:
             <th>E-Mail</th>
         </tr>
         <tr>
+            <td>Santiago Vessi</td>
+            <td>1958879</td>
+            <td>vessi.1958879@studenti.uniroma1.it</td>
+        </tr>
+        <tr>
+            <td>Jose Angel Mola</td>
+            <td>2116134</td>
+            <td>molaaudi.2116134@studenti.uniroma1.it</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td>André Leibrant</td>
             <td>2085698</td>
             <td>leibrant.2085698@studenti.uniroma1.it</td>
